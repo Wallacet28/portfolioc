@@ -6,7 +6,7 @@ const ProjetoCardData = [
     {
         imgsrc: img1,
         title: "Projeto Blog Wallace",
-        text: "Meu blog, o 'Wallace Fala Sobre Mim', é um espaço digital onde mergulho em uma variedade de tópicos fascinantes, desde as últimas tendências em tecnologia até curiosidades do nosso mundo. Com uma abordagem moderna, o blog é construído utilizando HTML5, CSS3 e JavaScript para criar uma experiência visualmente envolvente. A utilização do framework React e a integração de dados através do JSON garantem uma navegação suave e interativa. Explore o 'Wallace Fala Sobre Mim' para se informar, se inspirar e descobrir novas perspectivas.",
+        text: "Meu blog, o 'Blog Wallace' fala sobre mim, é um espaço digital onde mergulho em uma variedade de tópicos fascinantes, desde as últimas tendências em tecnologia até curiosidades do nosso mundo. Com uma abordagem moderna, o blog é construído utilizando HTML5, CSS3 e JavaScript para criar uma experiência visualmente envolvente. A utilização do framework React e a integração de dados através do JSON garantem uma navegação suave e interativa. Explore o 'Blog Wallace' para se informar, se inspirar e descobrir novas perspectivas.",
         view: "https://youtu.be/saD6C0y_pZY"
     },
     {
