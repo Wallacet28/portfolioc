@@ -10,8 +10,8 @@ function WorkCard(props) {
           <div className="pro-details">              
                       <p>{props.text}</p>
                       <div className="pro-btns">
-                          <NavLink to={props.view} className="btn">View</NavLink>
-                          <NavLink to="url.com" className="btn">Source</NavLink>
+                          <NavLink to={props.view} className="btn">Ver vídeo</NavLink>
+                          <NavLink to="url.com" className="btn">Ver github</NavLink>
                       </div>
                   </div>
               </div>
