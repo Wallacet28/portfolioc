@@ -1,0 +1,40 @@
+.footer-container {
+    display: flex; /* Altera de grid para flex */
+    justify-content: space-between; /* Coloca os itens nas extremidades */
+    align-items: center; /* Alinha verticalmente os itens */
+    max-width: 1140px;
+    margin: auto;
+    padding: 40px; /* Ajusta o espaçamento interno */
+    gap: 20px; /* Adicione um espaço entre as colunas */
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    /* ... (estilos de contato) */
+}
+
+.right {
+    flex: 1;
+    /* ... (estilos de "Sobre Mim") */
+}
+.social-icons {
+    display: flex;
+    justify-content: center; /* Centraliza os ícones horizontalmente */
+    margin-top: 20px; /* Adicione um espaçamento entre "Sobre Mim" e ícones */
+}
+@media screen and (max-width: 640px) {
+    .footer-container {
+        display: flex;
+        flex-direction: column;
+        max-width: 100%;
+        padding: 20px;
+    }
+
+   
+    .social-icons {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+}    
