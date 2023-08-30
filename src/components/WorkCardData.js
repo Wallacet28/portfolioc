@@ -2,6 +2,7 @@ import img1 from "../assets/foto-blog.png";
 import img2 from "../assets/previ.png";
 import img3 from "../assets/foto-x-mem.png";
 
+
 const ProjetoCardData = [
     {
         imgsrc: img1,
@@ -17,10 +18,16 @@ const ProjetoCardData = [
     },
     {
         imgsrc: img3,
-        title: "Projeto X-MEM",
+        title: Projeto X-MEM",
         text: "Apresento minha criação: uma página dinâmica dedicada aos personagens do 'X-MEM'. Utilizando HTML, CSS e JavaScript, essa página oferece uma experiência envolvente, permitindo aos visitantes explorar e aprender sobre seus heróis e vilões favoritos. A combinação de tecnologias modernas e minha paixão pelo 'X-MEM' resultou em uma página interativa que destaca minhas habilidades em programação e design web.",
         view: "https://www.youtube.com/shorts/gKt5UOFp470"
     },
+    {
+        imgsrc: img4,
+        title: "Projeto Portifólio",
+        text:"Este projeto de portfólio foi criado usando a tecnologia React. Foi uma oportunidade emocionante para mim mostrar minhas habilidades de desenvolvimento front-end enquanto construía um espaço para exibir meus outros projetos e conquistas.0 projeto foi construído com foco na responsividade, design moderno e boa usabilidade. Ao usar React, pude dividir a interface em componentes reutilizáveis, facilitando a manutenção e o desenvolvimento contínuo do portfólio.A página \"Portfólio\" neste site exibe uma coleção dos projetos que desenvolvi até o momento, mostrando minha progressão e habilidades em diferentes áreas de desenvolvimento front-end.Estou animado com a oportunidade contínua de adicionar mais projetos ao meu portfólio e continuar a aprender e crescer como desenvolvedor.",
+        view:"https://youtu.be/ciREnpnCaLQ?feature=shared"
+    }
 ];
 
 export default ProjetoCardData;
