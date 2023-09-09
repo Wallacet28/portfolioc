@@ -2,7 +2,7 @@
 
 https://portfolioc-beta.vercel.app/
 
-#Wallace Tadeu - Desenvolvedor Front-end
+## Desenvolvedor Front-end
 
 Olá, sou Wallace Tadeu, um desenvolvedor front-end apaixonado por criar experiências excepcionais na web. Este é o meu espaço digital onde compartilho meus projetos e conquistas.
 
